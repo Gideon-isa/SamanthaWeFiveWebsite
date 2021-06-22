@@ -1,0 +1,11 @@
+body{
+    margin: 5;
+    background-color: yellowgreen;
+}
+
+.container{
+    width: 960;
+    min-height: 600px;
+    background-color: white;
+    margin-right: auto;
+}
